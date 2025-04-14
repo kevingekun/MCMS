@@ -1,0 +1,10 @@
+[2m2025-04-14 13:37:07.790[0;39m [[31mERROR[0;39m] [35m88366[0;39m [2m[io-8080-exec-10 ][0;39m [31mnet.mingsoft.cms.action.GeneraterAction[0;39m:332 [2m:[0;39m 幻灯 模板不存在：
+[2m2025-04-14 13:37:07.802[0;39m [[31mERROR[0;39m] [35m88366[0;39m [2m[io-8080-exec-10 ][0;39m [31mnet.mingsoft.cms.action.GeneraterAction[0;39m:332 [2m:[0;39m 合作伙伴 模板不存在：
+[2m2025-04-14 13:37:09.877[0;39m [[31mERROR[0;39m] [35m88366[0;39m [2m[nio-8080-exec-9 ][0;39m [31mnet.mingsoft.cms.action.GeneraterAction[0;39m:225 [2m:[0;39m 幻灯 模板不存在：
+[2m2025-04-14 13:37:10.442[0;39m [[31mERROR[0;39m] [35m88366[0;39m [2m[nio-8080-exec-9 ][0;39m [31mnet.mingsoft.cms.action.GeneraterAction[0;39m:240 [2m:[0;39m 静态化单篇类型栏目异常：在线留言 ，异常原因：没有文章
+[2m2025-04-14 13:37:10.564[0;39m [[31mERROR[0;39m] [35m88366[0;39m [2m[nio-8080-exec-9 ][0;39m [31mnet.mingsoft.cms.action.GeneraterAction[0;39m:225 [2m:[0;39m 合作伙伴 模板不存在：
+[2m2025-04-14 13:37:33.199[0;39m [[31mERROR[0;39m] [35m88366[0;39m [2m[nio-8080-exec-6 ][0;39m [31mnet.mingsoft.cms.action.GeneraterAction[0;39m:225 [2m:[0;39m 幻灯 模板不存在：
+[2m2025-04-14 13:37:33.690[0;39m [[31mERROR[0;39m] [35m88366[0;39m [2m[nio-8080-exec-6 ][0;39m [31mnet.mingsoft.cms.action.GeneraterAction[0;39m:240 [2m:[0;39m 静态化单篇类型栏目异常：在线留言 ，异常原因：没有文章
+[2m2025-04-14 13:37:33.799[0;39m [[31mERROR[0;39m] [35m88366[0;39m [2m[nio-8080-exec-6 ][0;39m [31mnet.mingsoft.cms.action.GeneraterAction[0;39m:225 [2m:[0;39m 合作伙伴 模板不存在：
+[2m2025-04-14 13:37:36.455[0;39m [[31mERROR[0;39m] [35m88366[0;39m [2m[nio-8080-exec-2 ][0;39m [31mnet.mingsoft.cms.action.GeneraterAction[0;39m:332 [2m:[0;39m 幻灯 模板不存在：
+[2m2025-04-14 13:37:36.472[0;39m [[31mERROR[0;39m] [35m88366[0;39m [2m[nio-8080-exec-2 ][0;39m [31mnet.mingsoft.cms.action.GeneraterAction[0;39m:332 [2m:[0;39m 合作伙伴 模板不存在：
